@@ -16,4 +16,4 @@
 
 ## 联系我
 * Mail: <yexcano@gmail.com>  
-* Telegram: <https://t.me/yexca>
+* Telegram: [yexca](https://t.me/yexca)
