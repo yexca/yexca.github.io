@@ -7,7 +7,7 @@
 喜欢玩音游，热衷于研究一些新玩意
 
 ## 文章|作品
-* 个人博客: [yexca|Hiyoung'Blog](https://yexca.xyz)  
+* 个人博客: [yexca\|Hiyoung'Blog](https://yexca.xyz)  
 * VRChat相关文章: [VRChat教程](https://vrchat.yexca.xyz)    
 * VRChat云盘: [yexca'VRChat_pan](https://pan.vrchat.yexca.xyz)  
 * 视频
