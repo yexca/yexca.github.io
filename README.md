@@ -8,7 +8,7 @@
 
 ## 文章|作品
 * 个人博客: [yexca\|Hiyoung'Blog](https://yexca.xyz)  
-* 涩涩：[~~H是不行的~~](https://h.yexca.xyz)
+* 涩涩：H是不行的~~(但h[.](https://h.yexca.xyz)可以)~~
 * VRChat相关文章: [VRChat教程](https://vrchat.yexca.xyz)    
 * VRChat云盘: [yexca'VRChat_pan](https://pan.vrchat.yexca.xyz)  
 * 视频
