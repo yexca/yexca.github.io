@@ -8,7 +8,7 @@
 
 ## 文章|作品
 * 个人博客: [yexca\|Hiyoung'Blog](https://yexca.xyz)  
-* ACG：acg.
+* ACG：还是不放了 (doge)
 * VRChat相关文章: [VRChat教程](https://vrchat.yexca.xyz)    
 * VRChat云盘: [yexca'VRChat_pan](https://pan.vrchat.yexca.xyz)  
 * 视频
