@@ -5,5 +5,18 @@
     * [MMD模型转为FBX](/VRChat/Upload/mmd_to_fbx.md)
     * [MMD模型上传](/VRChat/Upload/mmd_upload.md)
     * [SDK2转为SDK3](/VRChat/Upload/sdk2_to_sdk3.md)
-* [修改](/VRChat/editing/README.md)
-* [脚本](/VRChat/script/README.md)
+* 修改
+    * [动画层简介](/VRChat/editing/Playable_Layers.md)
+    * [Base层](/VRChat/editing/Base.md)
+    * [Action层-AFK](/VRChat/editing/)
+    * [FX-物品开关](/VRChat/editing/)
+    * [物体绑骨](/VRChat/editing/)
+    * [换衣服](/VRChat/editing/)
+    * [固定世界物品](/VRChat/editing/)
+    * [固定世界MMD](/VRChat/editing/)
+    * [浅析数值-动画器-菜单](/VRChat/editing/)
+* 脚本
+    * [State_Behaviors-脚本简介](/VRChat/script/State_Behaviors.md)
+    * [自身跳MMD舞蹈](/VRChat/script/)
+    * [随机播放音乐](/VRChat/script/)
+* 
