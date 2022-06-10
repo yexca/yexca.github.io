@@ -10,7 +10,7 @@
 * 个人博客: [yexca\|Hiyoung'Blog](https://yexca.xyz)  
 * VRChat相关文章: 
     * [VRChat教程(yexca)](https://vrchat.yexca.xyz)   
-    * [Github Pages](https://git.yexca.xyz/VRChat/) 
+    * [Github Pages](/VRChat/) 
 * VRChat云盘: [yexca'VRChat_pan](https://pan.vrchat.yexca.xyz)  
 * 视频
   * [BiliBili](https://space.bilibili.com/318225502)  
