@@ -1,5 +1,5 @@
 * [VRChat入门教程](/VRChat/)
-* [上传](/VRChat/Upload/README.md)
+* 上传
     * [上传前准备](/VRChat/Upload/Prepare.md)
     * [成品模型上传](/VRChat/Upload/Upload.md)
     * [MMD模型转为FBX](/VRChat/Upload/mmd_to_fbx.md)
