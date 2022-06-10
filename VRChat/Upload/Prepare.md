@@ -49,4 +49,4 @@ VRChat下载界面链接：[Download – VRChat](https://vrchat.com/home/downloa
 
 ### 三、其他
 
-其他插件请自行探索，如：[VRC工具箱](https://www.bilibili.com/video/BV1f3411s7nR)等
+其他插件请自行探索，如：[VRC工具箱](https://www.bilibili.com/video/BV13q4y1f7ZJ)等
