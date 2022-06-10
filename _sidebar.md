@@ -1,1 +1,1 @@
-* [VRChat教程](/VRChat/)
+* [VRChat入门教程](/VRChat/)

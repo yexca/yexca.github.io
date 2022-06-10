@@ -14,7 +14,9 @@ MMD模型不能被Unity识别，可以通过两种方法进行转换，本文借
 
 Github链接：[Releases · absolute-quantum/cats-blender-plugin (github.com)](https://github.com/absolute-quantum/cats-blender-plugin/releases)
 
-文件直链(0.19.0版本)：[cats-blender-plugin-0-19-0.zip](https://github.com/absolute-quantum/cats-blender-plugin/releases/download/0.19.0/cats-blender-plugin-0-19-0.zip)
+文件直链  
+* Github：[cats-blender-plugin-0-19-0.zip](https://github.com/absolute-quantum/cats-blender-plugin/releases/download/0.19.0/cats-blender-plugin-0-19-0.zip)  
+* My VRChat Pan：[cats-blender-plugin-0-19-0.zip](https://pan.vrchat.yexca.xyz/Unity%26Blender/cats-blender-plugin-0-19-0.zip)  
 
 ### 3）安装插件
 

@@ -1,6 +1,6 @@
 ## 一、MMD模型导入Unity
 
-上篇文章讲述了MMD模型转换为FBX，现在将MMD模型所有的文件都导入Unity
+[上篇文章](/VRChat/Upload/mmd_to_fbx.md)讲述了MMD模型转换为FBX，现在将MMD模型所有的文件都导入Unity
 
 ## 二、MMD模型适配
 
@@ -26,7 +26,7 @@
 
 ### 2）添加”Viseme“
 
-如果未在Blend设置请忽视(即[MMD模型转换为FBX](https://vrchat.yexca.xyz/?p=29)第三步未做)，请看第四步或直接上传
+如果未在Blend设置请忽视(即[MMD模型转换为FBX第三步](/VRChat/Upload/mmd_to_fbx.md#三、进一步处理)未做)，请看[第四步](#四、添加动骨和碰撞)或直接上传
 
 ”VRC Avatar Descriptor“第二个为”LipSync“，”Mode“选择”Viseme Blend Shape“，左方将”Body“拖入”Face Mesh“会自动识别
 
@@ -65,7 +65,7 @@ Inert      惰性的
 
 　　头发参数 0.7 、 0.06 、 0.6 、0.85
 
-此处参数参考：[VRchat模型之unity – 星空月零 – 博客园 (cnblogs.com)](https://www.cnblogs.com/raitorei/p/12008887.html)
+此处参数参考：[VRchat模型之unity – 星空月零 – 博客园](https://www.cnblogs.com/raitorei/p/12008887.html)
 
 ### 2）碰撞
 
@@ -83,6 +83,6 @@ Inert      惰性的
 
 ## 五、上传
 
-上传参考[VRChat成品模型的上传及Unity汉化 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=19)
+上传参考[成品模型上传第四步](/VRChat/Upload/Upload.md#四、上传模型)
 
 关于”VRC Avatar Descriptor“其他部分将在后续文章描述

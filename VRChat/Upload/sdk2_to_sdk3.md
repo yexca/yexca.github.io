@@ -23,6 +23,6 @@
 
 ## 四、上传
 
-上传参考[VRChat成品模型的上传及Unity汉化 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=19)
+上传参考[成品模型上传第四步](/VRChat/Upload/Upload.md#四、上传模型)
 
 关于”VRC Avatar Descriptor“其他部分将在后续文章描述
