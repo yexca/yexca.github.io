@@ -19,9 +19,18 @@
       themeColor: '#fa7298',
       autoHeader: true,
       mergeNavbar: true,
-      repo: 'https://github.com/yexca/yexca.github.io/'
+      repo: 'https://github.com/yexca/yexca.github.io/',
+      search:  
+      {//添加搜索功能，中文和英文文档同时搜索
+        paths: 'auto',
+        placeholder: 
+        {
+          '/':'🔍 搜索',
+        },
+      },//增加搜索框
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js"></script>
 </body>
 </html>
