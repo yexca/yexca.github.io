@@ -19,4 +19,6 @@
     * [State_Behaviors-脚本简介](/VRChat/script/State_Behaviors.md)
     * [自身跳MMD舞蹈](/VRChat/script/)
     * [随机播放音乐](/VRChat/script/)
-* 
+* 动骨交互
+    * [动骨(PhysBones)简介](/VRChat/dynamics/PhysBones.md)
+    * [交互(Contacts)简介](/VRChat/dynamics/Contacts.md)
