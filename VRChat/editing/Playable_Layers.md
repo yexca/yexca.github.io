@@ -51,7 +51,3 @@
 ### 了解更多？
 
 [浅析数值-动画器-菜单 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=119)
-
-## 三、参考资料
-
-[Playable Layers (vrchat.com)](https://docs.vrchat.com/docs/playable-layers)

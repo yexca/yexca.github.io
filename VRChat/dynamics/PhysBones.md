@@ -212,6 +212,3 @@
 
 一个动骨插件最大可实现256个变化，如果骨骼过多，请分开加动骨组件，不要直接在根骨骼添加组件 ~~(不会真有人这么加吧，不会吧)~~
 
-# 参考资料
-
-[PhysBones (vrchat.com)](https://docs.vrchat.com/docs/physbones)

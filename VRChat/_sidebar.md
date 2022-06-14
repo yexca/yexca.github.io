@@ -22,3 +22,4 @@
 * 动骨交互
     * [动骨(PhysBones)简介](/VRChat/dynamics/PhysBones.md)
     * [交互(Contacts)简介](/VRChat/dynamics/Contacts.md)
+* [参考资料](/VRChar/References.md)

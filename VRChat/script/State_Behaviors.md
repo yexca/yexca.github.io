@@ -90,7 +90,3 @@ Animator Tracking Control 允许您启用或禁用 IK 或模拟化身身体各�
 ![img](https://cdn.jsdelivr.net/gh/yexca/image_hosting@master/20220423/image.62mmysx318o0.webp)
 
 与Animator Layer Controller类似，不过是改变一个动画层的权重
-
-## 参考资料
-
-[State Behaviors (vrchat.com)](https://docs.vrchat.com/docs/state-behaviors)
