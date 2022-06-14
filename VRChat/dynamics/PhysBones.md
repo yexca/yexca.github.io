@@ -140,11 +140,11 @@
 
 ![img](https://cdn.jsdelivr.net/gh/yexca/image_hosting@master/20220426/image.k66s0ps9stc.webp)
 
-* **半径(Radius)**：碰撞球的半径
+* 半径(Radius)：碰撞球的半径
 
-* **Allow Collision**：勾选则允许其他玩家碰撞(触碰)此骨骼
+* Allow Collision：勾选则允许其他玩家碰撞(触碰)此骨骼
 
-* **碰撞器(Colliders)**：如添加其他骨骼碰撞，则会显示于此，如将腿部碰撞拖入裙子动骨此处。大小为数量
+* 碰撞器(Colliders)：如添加其他骨骼碰撞，则会显示于此，如将腿部碰撞拖入裙子动骨此处。大小为数量
 
 ### 添加碰撞
 
