@@ -287,15 +287,17 @@ _____
 
 `![图片alt](图片链接 "图片title")`，其中‘图片 alt’为当图片加载失败时显示的内容，‘图片 title’为鼠标放图片上显示的内容
 
+注意：部分Markdwon编辑器不支持`图片title`
+
 例如以下代码
 
 ```markdown
-![图片](https://yexca.xyz/wp-content/uploads/2022/01/1636215131487-1024x560.jpg “这是本站的背景图片啊”)
+![图片](https://yexca.xyz/wp-content/uploads/2022/01/1636215131487-1024x560.jpg)
 ```
 
 效果如下
 
-![图片](https://yexca.xyz/wp-content/uploads/2022/01/1636215131487-1024x560.jpg “这是本站的背景图片啊”)
+![图片](https://yexca.xyz/wp-content/uploads/2022/01/1636215131487-1024x560.jpg)
 
 ## 图片包含链接
 
@@ -304,12 +306,12 @@ _____
 例如以下代码
 
 ```markdown
-[![图片](https://yexca.xyz/wp-content/uploads/2022/01/1636215131487-1024x560.jpg “点击查看原图地址”)](https://www.pixiv.net/artworks/82542737)
+[![图片](https://yexca.xyz/wp-content/uploads/2022/01/1636215131487-1024x560.jpg)](https://www.pixiv.net/artworks/82542737)
 ```
 
 效果如下
 
-[![图片](https://yexca.xyz/wp-content/uploads/2022/01/1636215131487-1024x560.jpg “点击查看原图地址”)](https://www.pixiv.net/artworks/82542737)
+[![图片](https://yexca.xyz/wp-content/uploads/2022/01/1636215131487-1024x560.jpg)](https://www.pixiv.net/artworks/82542737)
 
 # 转义字符
 
