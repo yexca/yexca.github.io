@@ -120,7 +120,7 @@
 
 * **Max Angle**：最大角度
 
-* **Rotation**：参考“角度(Angle)”的介绍
+* **Rotation**：参考[角度(Angle)](/VRChat/dynamics/PhysBones.md#_1）角度angle)的介绍
 
 ### 3）Polar
 
@@ -134,7 +134,7 @@
 
 * **Max Yaw**：新轴的范围
 
-* **Rotation**：参考<#角度(Angle)>的介绍
+* **Rotation**：参考[角度(Angle)](/VRChat/dynamics/PhysBones.md#_1）角度angle)的介绍
 
 ## 四、Collision(碰撞)
 
