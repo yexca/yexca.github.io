@@ -5,7 +5,7 @@ window.$docsify.plugins = [].concat((e, o) => {
         codeFontFamily: "Roboto Mono, Monaco, courier, monospace",
         bodyFontSize: "17px",
         dark: {
-            accent: "#42b983",
+            accent: "#fa7298",
             toogleBackground: "#ffffff",
             background: "#091a28",
             textColor: "#b4b4b4",
@@ -20,7 +20,7 @@ window.$docsify.plugins = [].concat((e, o) => {
             toogleImage: "url(https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/sun.svg)"
         },
         light: {
-            accent: "#42b983",
+            accent: "#fa7298",
             toogleBackground: "#091a28",
             background: "#ffffff",
             textColor: "#34495e",
