@@ -1,5 +1,3 @@
-# SDK描述文件(VRC Avatar Descriptor)简介
-
 ## 添加描述文件
 
 在“层级”中选中模型名字即可在右方组件搜索添加“VRC Avatar Descriptor”

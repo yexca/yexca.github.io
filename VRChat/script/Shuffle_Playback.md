@@ -1,4 +1,4 @@
-# 随机播放音乐(Avatar Parameter Driver)
+(Avatar Parameter Driver)
 
 ## 一、准备文件
 

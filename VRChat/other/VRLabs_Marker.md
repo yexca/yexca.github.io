@@ -1,5 +1,3 @@
-# 添加一个可以写字的笔
-
 ## 工具
 
 这里使用VRLabs的免费商品：[VRLabs Marker | マーカー – VRLabs – BOOTH](https://booth.pm/zh-cn/items/2911163)

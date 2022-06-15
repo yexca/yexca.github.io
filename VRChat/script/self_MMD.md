@@ -1,4 +1,4 @@
-# 添加MMD舞蹈(Animator Locomotion Control)
+(Animator Locomotion Control)
 
 ## 一、文件准备
 
