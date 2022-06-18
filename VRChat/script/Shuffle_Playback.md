@@ -2,7 +2,7 @@
 
 ## 一、准备文件
 
-已经录好开关音频的动画文件，可参考：[添加MMD舞蹈(Animator Locomotion Control) – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=140)
+已经录好开关音频的动画文件，可参考：[自身跳MMD舞蹈](/VRChat/script/self_MMD.md#二、制作音乐开关)
 
 ## 二、参数
 

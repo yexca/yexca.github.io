@@ -80,7 +80,7 @@
 
 ## Playable Layers
 
-参考：[动画层 (Playable Layers) 简介 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=44)
+参考：[动画层简介](/VRChat/editing/Playable_Layers.md)
 
 ## Lower Body
 
@@ -92,9 +92,9 @@
 
 ## Expressions
 
-添加参考：[动画层 (Playable Layers) 简介 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=44#header-id-3)
+添加参考：[动画层简介](/VRChat/editing/Playable_Layers.md)
 
-官方数值：[浅析数值-动画器-菜单 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=119#header-id-9)
+官方数值：[浅析数值-动画器-菜单](/VRChat/editing/summary.md)
 
 ## Colliders
 
@@ -108,4 +108,4 @@
 
 此处设置的不仅是碰撞体积也是交互系统发送端的大小
 
-具体参考：[交互系统(Contacts)简介 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=172)
+具体参考：[交互(Contacts)简介](/VRChat/dynamics/Contacts.md)

@@ -5,7 +5,7 @@
 - 舞蹈动画文件
 - 音乐
 
-关于MMD舞蹈转换，请参考：[FX层-固定于世界的模型跳MMD舞蹈 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=108)
+关于MMD舞蹈转换，请参考：[固定世界MMD](/VRChat/editing/set_MMD.md)
 
 不过这里要调整动画方向，点击动画文件，在右方”跟变换旋转-依据“选择”原始“
 
@@ -23,11 +23,11 @@
 
 ### 3）音频邦骨(可选)
 
-我制作一般会将音频邦骨在嘴部，邦骨参考：[FX层-物体邦骨，物品开关简述 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=75)
+我制作一般会将音频邦骨在嘴部，邦骨参考：[物体绑骨](/VRChat/editing/tied_bones.md)
 
 ### 4）制作音频开关
 
-录制开关参考：[FX层-简单物品开关，光源，飞行 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=70)
+录制开关参考：[FX-物品开关](/VRChat/editing/switch.md)
 
 ## 三、动画器添加动画
 

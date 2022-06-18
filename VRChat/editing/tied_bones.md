@@ -26,6 +26,6 @@
 
 例如粒子系统特效，可以放在模型子集然后创建一个打开的动画放入菜单即可在游戏显示
 
-关于手势触发是在”动画器“过渡条件使用”GestureLeft“或”GestureRight“，具体参考[浅析数值-动画器-菜单 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=119)
+关于手势触发是在”动画器“过渡条件使用”GestureLeft“或”GestureRight“，具体参考[浅析数值-动画器-菜单](/VRChat/editing/summary.md)
 
 更换衣服即先将衣服骨骼放入模型骨骼子集，再把衣服放入模型子集，然后做动画打开新衣服，关闭旧衣服

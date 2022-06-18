@@ -8,7 +8,7 @@
 - Action 动作层，例如MMD舞蹈放此层
 - FX 控制物品的开关，手势表情也在此层
 
-此外，还有附加的三个层，分别为（此部分如需了解请看“[参考资料](三、参考资料)”部分）
+此外，还有附加的三个层，分别为（此部分如需了解请看“[官方文档](https://docs.vrchat.com/docs/playable-layers#additional-poses)”）
 
 - T-Pose
 - IK Pose
@@ -50,4 +50,4 @@
 
 ### 了解更多？
 
-[浅析数值-动画器-菜单 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=119)
+[浅析数值-动画器-菜单](/VRChat/editing/summary.md)

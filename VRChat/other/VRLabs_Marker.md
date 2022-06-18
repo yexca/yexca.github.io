@@ -2,6 +2,8 @@
 
 这里使用VRLabs的免费商品：[VRLabs Marker | マーカー – VRLabs – BOOTH](https://booth.pm/zh-cn/items/2911163)
 
+文件直链(Pan)：[Marker_v1.1.unitypackage](https://pan.vrchat.yexca.xyz/%E9%81%93%E5%85%B7/VRLabs%20Marker%28%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%29/Marker_v1.1.unitypackage)
+
 ## 前提
 
 模型的数值可用位至少13
@@ -20,11 +22,11 @@
 
 **Left-handed：**装在左手上
 
-**Write Defaults：**参考：[Write Defaults的作用_煮粥侠_99的博客-CSDN博客](https://blog.csdn.net/yjy99yjy999/article/details/82730948)
+**Write Defaults：**动画层的东西，意为进入下一个状态时是否重置上一个状态所做的更改
 
 **Gesture to draw：**选择一个手势去写字，默认为point
 
-手势可参考：[浅析数值-动画器-菜单 – vrchat教程 (yexca.xyz)](https://vrchat.yexca.xyz/?p=119#header-id-11)
+手势可参考：[浅析数值-动画器-菜单](/VRChat/editing/summary.md)
 
 **Adjustable brush size：**可调节画笔的大小
 
