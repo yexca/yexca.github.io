@@ -1,4 +1,4 @@
-* [VRChat入门教程](/VRChat/)
+* [VRChat相关](/VRChat/)
 * 上传
     * [上传前准备](/VRChat/Upload/Prepare.md)
     * [成品模型上传](/VRChat/Upload/Upload.md)
