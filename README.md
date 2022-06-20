@@ -29,3 +29,6 @@
 # 联系我
 * Mail: <yexcano@gmail.com>  
 * Telegram: [yexca](https://t.me/yexca)
+
+# 其他
+基于[Docsify](https://docsify.js.org/#/zh-cn/)搭建
