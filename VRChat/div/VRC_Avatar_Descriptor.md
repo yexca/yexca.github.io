@@ -80,7 +80,19 @@
 
 ## Playable Layers
 
-参考：[动画层简介](/VRChat/editing/Playable_Layers.md)
+在 SDK3 的 Avatar Descriptor 一共有五个层，分别为
+
+- Base 或称Locomotion层，控制模型的蹲姿，趴姿等
+- Additive Base层的附加，例如制作呼吸动画
+- Gesture 手势层，手势动作制作，或者用于“空闲动画”，例如摇摆尾巴、拍打翅膀或移动耳朵
+- Action 动作层，例如MMD舞蹈放此层
+- FX 控制物品的开关，手势表情也在此层
+
+此外，还有附加的三个层，分别为（此部分如需了解请看“[官方文档](https://docs.vrchat.com/docs/playable-layers#additional-poses)”）
+
+- T-Pose
+- IK Pose
+- Sitting Pose
 
 ## Lower Body
 
@@ -92,9 +104,9 @@
 
 ## Expressions
 
-添加参考：[动画层简介](/VRChat/editing/Playable_Layers.md)
+[数值](/VRChat/Summary/Parameters)
 
-官方数值：[浅析数值-动画器-菜单](/VRChat/editing/summary.md)
+[菜单](/VRChat/Summary/Menu.md)
 
 ## Colliders
 
