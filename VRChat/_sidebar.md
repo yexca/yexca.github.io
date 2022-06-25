@@ -22,6 +22,7 @@
 * 脚本
     * [自身跳MMD舞蹈](/VRChat/script/self_MMD.md)
     * [随机播放音乐](/VRChat/script/Shuffle_Playback.md)
+    * [顺序播放音乐](/VRChat/script/play_in_order.md)
 * 模块
     * [SDK描述文件(VRC Avatar Descriptor)简介](/VRChat/div/VRC_Avatar_Descriptor.md)
     * [动骨(PhysBones)简介](/VRChat/dynamics/PhysBones.md)
