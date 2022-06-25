@@ -2,7 +2,7 @@ VRChat的教程文章
 
 ***
 
-# 公告  <!-- {docsify-ignore-all} -->
+# 公告  <!-- {docsify-ignore} -->
 
 **目前进度：大致文章结构已修改，下一步：文章构思**
 **可能会有部分链接错误，毕竟我没有去一个个尝试，日后会改**
@@ -13,11 +13,11 @@ VRChat的教程文章
 所有图片均使用Github外链，如加载不出，可能是网络问题 ~~(当然，能访问这里应该没啥问题了)~~  
 另外我VRChat的ID为[yexca](https://vrchat.com/home/user/usr_16490da9-3083-4d90-baab-f19d939c2732)  
 
-# 说明
+# 说明 <!-- {docsify-ignore} -->
 
 待写~
 
-# 待办
+# 待办 <!-- {docsify-ignore} -->
 以下是通过评论或私信希望我做的相关内容，说实话与其等我写出来不如自己去研究 ~~(等我做出来自己早就精通了)~~  
 
 * [x] SDK描述文件(VRC Avatar Descriptor)的介绍
@@ -29,9 +29,9 @@ VRChat的教程文章
 
 ***
 
-# 关于上传Bilibili    
+# 关于上传Bilibili  <!-- {docsify-ignore} -->  
 起初只是想写文章，但有些东西是文章无法表现出来的，于是便去试着做了视频  
 
-# 一些心里话
+# 一些心里话 <!-- {docsify-ignore} -->
 我从没想过我写的VRChat模型总结会有那么多人看，非常感谢关注我的人  
 当然，我从接触VRChat到做出网站[yexca'VRChat入门教程](https://vrchat.yexca.xyz)其实只有大概一个半月的时间，肯定会有许多问题我没有遇到或无法解决，请见谅  
