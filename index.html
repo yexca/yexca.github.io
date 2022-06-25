@@ -10,6 +10,8 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
   <!--折叠侧边栏-->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+  <!--右上目录-->
+  <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
 </head>
 <body>
   <div id="app">稍等一下啦~</div>
@@ -33,6 +35,7 @@
       },
       // 右上角Github
       repo: 'https://github.com/yexca/yexca.github.io/',
+      // 增加搜索框
       search:  
       {//添加搜索功能，中文和英文文档同时搜索
         paths: 'auto',
@@ -40,7 +43,7 @@
         {
           '/':'深入了解一下嘛~',
         },
-      },//增加搜索框
+      },
       auto2top: true,
       // 折叠侧边栏
       sidebarDisplayLevel: 0,
@@ -52,15 +55,17 @@
         bottom: 15,
         offset: 500
       },
-      // 最后更新时间
-      lastModified: {
-        repo: 'yexca/yexca.github.io'
-      },
-      // 阅读进度
-      progress: {
-        position: "top",
-        color: "var(--theme-color,#42b983)",
-        height: "3px",
+      // // 阅读进度
+      // progress: {
+      //   position: "top",
+      //   color: "var(--theme-color,#42b983)",
+      //   height: "3px",
+      // },
+      // 右方目录
+      toc: {
+        scope: '.markdown-section',
+        headings: 'h1, h2',
+        title: '目录',
       },
     }
   </script>
@@ -73,10 +78,9 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <!--滑动至顶部-->
   <script src="//unpkg.com/docsify-scroll-to-top/dist/docsify-scroll-to-top.min.js"></script>
-  <!--最后更新时间-->
-  <script src="//cdn.jsdelivr.net/npm/tinydate@1.3.0/dist/tinydate.min.js"></script>
-  <script src="//cdn.jsdelivr.net/gh/rxmapple/docsify-last-modified@main/src/docsify-last-modified.js"></script>
-  <!--阅读进度-->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+  <!--右上目录-->
+  <script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
+  <!--阅读进度--
+  <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>-->
 </body>
 </html>
