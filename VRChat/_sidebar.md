@@ -18,6 +18,7 @@
     * [手势开关](/VRChat/other/gesture.md)
     * [添加一个可以写字的笔](/VRChat/other/VRLabs_Marker.md)
     * [添加手势表情](/VRChat/other/expression.md)
+    * [Blender换头](/VRChat/other/Blender_change_head.md)
 * 脚本
     * [自身跳MMD舞蹈](/VRChat/script/self_MMD.md)
     * [随机播放音乐](/VRChat/script/Shuffle_Playback.md)
