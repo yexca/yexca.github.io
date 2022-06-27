@@ -150,55 +150,55 @@ SHOPTOKEN：微信积分商城的token，通过抓包获取。
 ONEPUSH：推送配置。notifier为推送名字，params为所需参数。详见后文。
 
 # OnePush推送参数一览
-推送名称 / notifier: bark
-参数大全 / params:
+推送名称 / notifier: bark  
+参数大全 / params:  
 {'required': ['key'], 'optional': ['title', 'content', 'sound', 'isarchive', 'icon', 'group', 'url', 'copy', 'autocopy']}
 
-推送名称 / notifier: custom
-参数大全 / params:
+推送名称 / notifier: custom  
+参数大全 / params:  
 {'required': ['url'], 'optional': ['method', 'datatype', 'data']}
 
-推送名称 / notifier: dingtalk
-参数大全 / params:
+推送名称 / notifier: dingtalk  
+参数大全 / params:  
 {'required': ['token'], 'optional': ['title', 'content', 'secret', 'markdown']}
 
-推送名称 / notifier: discord
-参数大全 / params:
+推送名称 / notifier: discord  
+参数大全 / params:  
 {'required': ['webhook'], 'optional': ['title', 'content', 'username', 'avatar_url', 'color']}
 
-推送名称 / notifier: pushplus
-参数大全 / params:
+推送名称 / notifier: pushplus  
+参数大全 / params:  
 {'required': ['token', 'content'], 'optional': ['title', 'topic', 'markdown']}
 
-推送名称 / notifier: qmsg
-参数大全 / params:
+推送名称 / notifier: qmsg  
+参数大全 / params:  
 {'required': ['key'], 'optional': ['title', 'content', 'mode', 'qq']}
 
-推送名称 / notifier: serverchan
-参数大全 / params:
+推送名称 / notifier: serverchan  
+参数大全 / params:  
 {'required': ['sckey', 'title'], 'optional': ['content']}
 
-推送名称 / notifier: serverchanturbo
-参数大全 / params:
+推送名称 / notifier: serverchanturbo  
+参数大全 / params:  
 {'required': ['sctkey', 'title'], 'optional': ['content', 'channel', 'openid']}
 
-推送名称 / notifier: telegram
-参数大全 / params:
+推送名称 / notifier: telegram  
+参数大全 / params:  
 {'required': ['token', 'userid'], 'optional': ['title', 'content', 'api_url']}
 
-推送名称 / notifier: wechatworkapp
-参数大全 / params:
+推送名称 / notifier: wechatworkapp  
+参数大全 / params:  
 {'required': ['corpid', 'corpsecret', 'agentid'], 'optional': ['title', 'content', 'touser', 'markdown']}
 
-推送名称 / notifier: wechatworkbot
-参数大全 / params:
+推送名称 / notifier: wechatworkbot  
+参数大全 / params:  
 {'required': ['key'], 'optional': ['title', 'content', 'markdown']}
 
 **例子**
-telegram
+telegram  
 ONEPUSH={"notifier":"telegram","params":{"markdown":false,"token":"xxxx","userid":"xxx"}}
 
-discord
+discord  
 ONEPUSH={"notifier":"discord","params":{"markdown":true,"webhook":"https://discord.com/api/webhooks/xxxxxx"}}
 
 docker 配置文件映射目录为：/etc/genshin:/app/genshincheckinhelper/config
