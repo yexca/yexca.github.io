@@ -19,6 +19,8 @@
 
 * [Write Defaults的作用_煮粥侠_99的博客-CSDN博客](https://blog.csdn.net/yjy99yjy999/article/details/82730948)
 
+* [Blender - 2.8x - Screencast Keys (v3.0) - 屏幕显示按键信息插件介绍以及安装](https://blog.csdn.net/linjf520/article/details/108108603)
+
 ***
 
 文章所能表达的东西实在有限，有些东西是没视频直观的，然后在一些视频网站看到了许多大佬做的视频教程
