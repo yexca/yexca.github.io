@@ -9,25 +9,26 @@
     * [添加默认图层与菜单](/VRChat/editing/Playable_Layers.md)
     * [Base层-蹲姿，趴姿](/VRChat/editing/Base.md)
     * [Action层-AFK](/VRChat/editing/afk.md)
-    * [FX-物品开关](/VRChat/editing/switch.md)
-* 其他
+    * [FX层-物品开关](/VRChat/editing/switch.md)
+* 附加
     * [物体绑骨](/VRChat/other/tied_bones.md)
     * [换衣服](/VRChat/other/change_clothes.md)
     * [固定世界物品](/VRChat/other/set_object.md)
     * [固定世界MMD](/VRChat/other/set_MMD.md)
     * [手势开关](/VRChat/other/gesture.md)
-    * [添加一个可以写字的笔](/VRChat/other/VRLabs_Marker.md)
-    * [添加手势表情](/VRChat/other/expression.md)
-    * [Blender换头](/VRChat/other/Blender_change_head.md)
 * 脚本
     * [自身跳MMD舞蹈](/VRChat/script/self_MMD.md)
     * [随机播放音乐](/VRChat/script/Shuffle_Playback.md)
     * [顺序播放音乐](/VRChat/script/play_in_order.md)
+* 其他
+    * [添加一个可以写字的笔](/VRChat/additional/VRLabs_Marker.md)
+    * [添加手势表情](/VRChat/additional/expression.md)
+    * [Blender换头](/VRChat/additional/Blender_change_head.md)
 * 模块
     * [SDK描述文件(VRC Avatar Descriptor)简介](/VRChat/div/VRC_Avatar_Descriptor.md)
     * [动骨(PhysBones)简介](/VRChat/dynamics/PhysBones.md)
     * [交互(Contacts)简介](/VRChat/dynamics/Contacts.md)
-    * [State_Behaviors-脚本简介](/VRChat/div/State_Behaviors.md)
+    * [State Behaviors脚本简介](/VRChat/div/State_Behaviors.md)
 * 综述
     * [一、动画](/VRChat/Summary/Anime.md)
     * [二、数值](/VRChat/Summary/Parameters)
